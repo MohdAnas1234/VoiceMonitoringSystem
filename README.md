@@ -464,7 +464,7 @@ Response sent to user with sentiment badge
 | Resource | Link |
 |----------|------|
 | 🌐 Live App | [mindfulchatpro.onrender.com](mindfulchat-ao3a.onrender.com) |
-| 📦 GitHub |  | https://github.com/MohdAnas1234/VoiceMonitoringSystem/edit/main/README.md
+| 📦 GitHub |  | [https://github.com/MohdAnas1234/VoiceMonitoringSystem/edit/main/README.md)
 
 ---
 
