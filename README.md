@@ -179,11 +179,6 @@ User Message → Crisis Keyword Scan → If detected:
 
 **Crisis keywords monitored:** suicide, kill myself, self-harm, end my life, want to die, etc.
 
-**Helpline resources provided:**
-- 🇺🇸 National Suicide Prevention Lifeline: 988
-- 🇺🇸 Crisis Text Line: Text HOME to 741741
-- 🇮🇳 AASRA: 9820466726
-- 🌐 International Association for Suicide Prevention
 
 ---
 
@@ -289,8 +284,8 @@ mental_health_chatbot/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/prokriti11/MindfulChat.git
-cd MindfulChat
+git clone https://github.com/MohdAnas1234/VoiceMonitoringSystem
+cd VoiceMntrSys
 ```
 
 ### 2. Install Dependencies
