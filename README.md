@@ -464,13 +464,11 @@ Response sent to user with sentiment badge
 | Resource | Link |
 |----------|------|
 | 🌐 Live App | [mindfulchatpro.onrender.com](mindfulchat-ao3a.onrender.com) |
-| 📦 GitHub | [github.com/prokriti11/MindfulChat](https://github.com/prokriti11/MindfulChat) |
+| 📦 GitHub |  | https://github.com/MohdAnas1234/VoiceMonitoringSystem/edit/main/README.md
 
 ---
 
-## 📄 License
 
-This project is for **educational and non-commercial use**. Built as a demonstration of full-stack development, NLP, and generative AI integration.
 
 ---
 
